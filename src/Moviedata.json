@@ -1,0 +1,53 @@
+
+[{
+     "img_url":"https://movieplayer.net-cdn.it/t/images/2017/12/20/bright_jpg_191x283_crop_q85.jpg",
+     "movie_name":"Bright",
+     "date":"2017, David Ayer",
+     "time":"117min",
+     "type":"Action, Crime, Fantasy",
+     "description":"Set in a world where fantasy creatures live side by side with humans. A human cop is forced to work with an Orc to find a weapon everyone is prepared to kill for.",
+     "bg_url":"https://mamasgeeky.com/wp-content/uploads/2024/01/suicide-squad-best-comic-book-movie.jpg"
+
+ },
+ {
+    "img_url":"https://mr.comingsoon.it/imgdb/locandine/235x336/53750.jpg",
+    "movie_name":"Tomb Raider",
+    "date":"2018, Roar Uthaug",
+    "time":"125min",
+    "type":"Action, Fantasy",
+    "description":"Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.",
+    "bg_url":"https://images7.alphacoders.com/872/872409.jpg"
+ },{
+    "img_url":"https://mr.comingsoon.it/imgdb/locandine/235x336/53715.jpg",
+    "movie_name":"Black Panther",
+    "date":"2018, Ryan Coogler",
+    "time":"134min",
+    "type":"Action, Adventure, Sci-Fi",
+    "description":"T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation, but his claim is challenged by a vengeful outsider who was a childhood victim of T'Challa's father's mistake.",
+    "bg_url":"https://www.enjpg.com/img/2020/black-panther-90.jpg"
+ },{
+    "img_url":"https://cfm.yidio.com/images/movie/215016/poster-180x270.jpg",
+    "movie_name":"Watch Spider-Man: No Way Home",
+    "date":"2021, Jon Watts",
+    "time":"148min",
+    "type":"Action, Adventure, science-fiction",
+    "description":"Spider-Man: No Way Home is a 2021 superhero action film starring Tom Holland as Peter Parker/Spider-Man, Zendaya as MJ, and Benedict Cumberbatch as Doctor Strange. The film takes place following the events of Spider-Man: Far From Home, where Spider-Man's secret identity is revealed to the world by J. Jonah Jameson. This resulted in Peter Parker being hunted by the media and the police.",
+    "bg_url":"https://images4.alphacoders.com/117/1179687.jpg"
+ },{
+    "img_url":"https://cfm.yidio.com/images/movie/64679/poster-180x270.jpg",
+    "movie_name":"Watch Avatar: The Way of Water",
+    "date":"2022, James Cameron",
+    "time":"192min",
+    "type":"Action, Adventure, science-fiction",
+    "description":"Avatar: The Way of the Water is a highly-anticipated sequel to James Cameron's groundbreaking 2009 film Avatar. Released in 2022, the movie takes place several years after the events of the original film and follows the journey of a new Na'vi protagonist, named Tuktirey, who is a young female warrior from the Metkayina Clan.",
+    "bg_url":"https://sm.mashable.com/t/mashable_in/photo/default/avatar-2-photos-reveal-pandoras-stunning-underwater-setting_82wm.1248.png"
+ },{
+    "img_url":"https://cfm.yidio.com/images/movie/228251/poster-180x270.jpg",
+    "movie_name":"Watch Aquaman and the Lost Kingdom",
+    "date":"2023, James Wan",
+    "time":"124min",
+    "type":"Action, Adventure, Fantasy",
+    "description":"Aquaman and the Lost Kingdom is an upcoming 2023 American superhero film that is directed by James Wan and produced by Peter Safran. It is a sequel to the 2018 film Aquaman and it features an all-star cast led by Jason Momoa as Arthur Curry aka Aquaman. Other cast members include Ben Affleck as Bruce Wayne aka Batman and Patrick Wilson as Orm/Ocean Master.",
+    "bg_url":"https://images.immediate.co.uk/production/volatile/sites/3/2018/12/Aquaman-Movie-Poster-Aquaman-Classic-Costume-e0110b2.jpg?quality=90&webp=true&resize=1000,667"
+ }
+]
