@@ -9,10 +9,10 @@ function Header() {
      <input type='text' className='inp-search'/>
      <span class="material-symbols-outlined " id='search-logo'>search</span>
 </div>
-     <p>TV SHOWS</p>
-     <p>MOVIES</p>
+     <p className='trans'>TV SHOWS</p>
+     <p className='trans'>MOVIES</p>
      </div>
-    <p>SIGN IN</p>
+    <p className='trans'>SIGN IN</p>
     </header>
   )
 }
